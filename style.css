@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container h1{
+    color:  #1abc2d;
+    /* width: 100%; */
+}
+
+.header{
+    background-color: #1abc2d;
+    
+}
+.modal-header{
+    background-color: #1abc2d;
+}
+
+.edit-btn{
+    background-color: #159c25 !important;
+    color: white !important;
+    padding: 2px 6px !important;
+
+}
+.del-btn{
+    background-color: rgb(210, 1, 1) !important;
+    color: white !important;
+    padding: 2px 6px !important;
+}
+
+.reg-list img{
+    border-radius: 50%;
+}
+
+.paginate-btn{
+    width: 50px;
+    border: 1px solid black !important;
+}
+.paginate-btn.active{
+    box-shadow: none !important;
+    background-color: #13e22b !important;
+}
+.btn-prev,.btn-next{
+    background-color: #159c25 !important;
+}
